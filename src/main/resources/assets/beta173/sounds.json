@@ -1,0 +1,10 @@
+{
+  "retro_sound": {
+    "sounds": [
+      {
+        "name": "beta173:retro_sound",
+        "stream": false
+      }
+    ]
+  }
+}

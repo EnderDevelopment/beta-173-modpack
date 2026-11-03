@@ -1,0 +1,3 @@
+rootProject.name = 'beta173'
+include 'beta173'
+project(':beta173').projectDir = file('src/main')

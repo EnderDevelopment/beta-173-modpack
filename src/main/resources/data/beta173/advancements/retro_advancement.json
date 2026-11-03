@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "placed_block": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "block": "minecraft:grass_block"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  }
+}

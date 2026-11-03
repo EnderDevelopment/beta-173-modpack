@@ -1,0 +1,11 @@
+{
+  "hunger": false,
+  "sprinting": false,
+  "enchanting": false,
+  "brewing": false,
+  "end_dimension": false,
+  "retro_nether": true,
+  "beta_worldgen": true,
+  "beta_textures": true,
+  "anvil": true
+}
